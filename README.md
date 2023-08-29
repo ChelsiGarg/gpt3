@@ -11,7 +11,6 @@ While building the website, I learnt:
 - Fundamentals of the CSS BEM Model
 - From soft and pleasant animations to complex gradients <!-- gradients is taken from the site [angrytools](https://angrytools.com/gradient/) & animation is taken from the site [animista](https://animista.net/play/basic/scale-up). When we are on mobile device, we will see 3 dots in top right corner. When we click on it, we will see the list of links & this list will be opened in scale-up animation -->
 - Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
 
 <!-- Problems faced
 - There were many images that were needed to be imported, for example, in blog section. Now, in order to write the clean code, I did not want to include so many imports in the file. So, after searching, I got to know the trick that we can create a separate file where we can import all required images & then in blog file, simply import that file which has all the images imports.
