@@ -5,12 +5,10 @@ This is a code repository for the corresponding website.
 
 While building the website, I learnt:
 
-- React Functional components and their reusability
 - React Functional components and their reusability. <!-- The article component, for example, was resued to create blog section. We were able to render same skeleton of article with different images & title by passing them as props -->
 - React file and folder structure
 - Fundamental CSS properties to master flex & grid
 - Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
 - From soft and pleasant animations to complex gradients <!-- gradients is taken from the site [angrytools](https://angrytools.com/gradient/) & animation is taken from the site [animista](https://animista.net/play/basic/scale-up). When we are on mobile device, we will see 3 dots in top right corner. When we click on it, we will see the list of links & this list will be opened in scale-up animation -->
 - Perfectly placed media queries for satisfactory responsiveness covering almost devices
 - And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
