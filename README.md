@@ -4,7 +4,7 @@
 This is a code repository for the corresponding website. 
 [LIVE SITE](https://gpt-3-modern-ui.netlify.app)
 
-###Aim behind building the project
+### Aim behind building the project
 - The project could be built without using react as the project involved just designing the user interface.
 - But, if built without using react then there would be 1000+ lines of code. Also, the way code is broken down to several components to increase readability for others would not have been possible.
 - Some components were reused in the project which have made the code even more shorter. So, due to the reusability feature of react, writing & understanding the code has become even more easier.
